@@ -227,7 +227,7 @@ function create_config( )
     "admin",
     "plugins"
     },
-    sudo_users = {198828890},--Sudo users
+    sudo_users = {172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[W_SaTaN_W V 1
@@ -240,7 +240,7 @@ function create_config( )
     
 ]],
     help_text_realm = [[
-Realm Commands:
+crazy boy:
 
 !creategroup [Name]
 Create a group
